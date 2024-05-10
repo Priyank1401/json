@@ -1,0 +1,42 @@
+[
+{
+	"image":"https://priyank100.github.io/json/cart/apples.jpg",
+	"title":"Apple",
+	"price":"₹120"
+},
+{
+	"image":"https://priyank100.github.io/json/cart/banana.jpg",
+	"title":"Banana",
+	"price":"₹60"
+},
+{
+	"image":"https://priyank100.github.io/json/cart/cherry.png",
+	"title":"Cherry",
+	"price":"₹150"
+},
+{
+	"image":"https://priyank100.github.io/json/cart/grapes.jpg",
+	"title":"Grapes",
+	"price":"₹90"
+},
+{
+	"image":"https://priyank100.github.io/json/cart/melon.png",
+	"title":"Melon",
+	"price":"₹30"
+},
+{
+	"image":"https://priyank100.github.io/json/cart/oranges.png",
+	"title":"Orange",
+	"price":"₹80"
+},
+{
+	"image":"https://priyank100.github.io/json/cart/papaya.png",
+	"title":"Papaya",
+	"price":"₹70"
+},
+{
+	"image":"https://priyank100.github.io/json/cart/watermelon.jpg",
+	"title":"Watermelon",
+	"price":"₹50"
+}
+]
