@@ -84,7 +84,7 @@
       {
         "id": "V2",
         "title": "Tomato",
-        "image": "",
+        "image": "https://priyank100.github.io/json/grocery/images/vegetables/tomato.png",
         "description": "",
         "weight": "1 Kg",
         "price": 50
@@ -92,7 +92,7 @@
       {
         "id": "V3",
         "title": "Cabbage",
-        "image": "",
+        "image": "https://priyank100.github.io/json/grocery/images/vegetables/cabbage.png",
         "description": "",
         "weight": "1 Kg",
         "price": 43.15
@@ -100,7 +100,7 @@
       {
         "id": "V4",
         "title": "Cauliflower",
-        "image": "",
+        "image": "https://priyank100.github.io/json/grocery/images/vegetables/cauliflower.png",
         "description": "",
         "weight": "1 Kg",
         "price": 19.6
@@ -108,7 +108,7 @@
       {
         "id": "V5",
         "title": "Brinjal",
-        "image": "",
+        "image": "https://priyank100.github.io/json/grocery/images/vegetables/brinjal.png",
         "description": "",
         "weight": "1 Kg",
         "price": 75.34
@@ -116,7 +116,7 @@
       {
         "id": "V6",
         "title": "Lady's Finger",
-        "image": "",
+        "image": "https://priyank100.github.io/json/grocery/images/vegetables/ladyfinger.png",
         "description": "",
         "weight": "1 Kg",
         "price": 58.90
@@ -124,15 +124,15 @@
       {
         "id": "V7",
         "title": "Spinach",
-        "image": "",
+        "image": "https://priyank100.github.io/json/grocery/images/vegetables/spinach.png",
         "description": "",
         "weight": "1 Kg",
         "price": 100
       },
       {
         "id": "V8",
-        "title": "Pea",
-        "image": "",
+        "title": "Peas",
+        "image": "https://priyank100.github.io/json/grocery/images/vegetables/peas.png",
         "description": "",
         "weight": "1 Kg",
         "price": 125
