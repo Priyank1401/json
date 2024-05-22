@@ -1,12 +1,12 @@
 [
   {
     "category": "Fruits",
-    "logo": "",
+    "logo": "https://priyank100.github.io/json/grocery/images/category/fruits.png",
     "data": [
       {
         "id": "F1",
         "title": "Apple",
-        "image": "",
+        "image": "https://priyank100.github.io/json/grocery/images/fruits/apples.jpg",
         "description": "",
         "weight": "1 Kg",
         "price": 79.55
@@ -14,7 +14,7 @@
       {
         "id": "F2",
         "title": "Banana",
-        "image": "",
+        "image": "https://priyank100.github.io/json/grocery/images/fruits/banana.jpg",
         "description": "",
         "weight": "1 Dozen",
         "price": 83.56
@@ -22,7 +22,7 @@
       {
         "id": "F3",
         "title": "Cherry",
-        "image": "",
+        "image": "https://priyank100.github.io/json/grocery/images/fruits/cherry.png",
         "description": "",
         "weight": "1 Kg",
         "price": 300
@@ -30,7 +30,7 @@
       {
         "id": "F4",
         "title": "Grapes",
-        "image": "",
+        "image": "https://priyank100.github.io/json/grocery/images/fruits/grapes.jpg",
         "description": "",
         "weight": "1 Kg",
         "price": 90
@@ -38,7 +38,7 @@
       {
         "id": "F5",
         "title": "Melon",
-        "image": "",
+        "image": "https://priyank100.github.io/json/grocery/images/fruits/melon.png",
         "description": "",
         "weight": "1 Kg",
         "price": 46.60
@@ -46,7 +46,7 @@
       {
         "id": "F6",
         "title": "Orange",
-        "image": "",
+        "image": "https://priyank100.github.io/json/grocery/images/fruits/orange.png",
         "description": "",
         "weight": "1 Kg",
         "price": 90
@@ -54,7 +54,7 @@
       {
         "id": "F7",
         "title": "Papaya",
-        "image": "",
+        "image": "https://priyank100.github.io/json/grocery/images/fruits/papaya.png",
         "description": "",
         "weight": "1 Kg",
         "price": 47
@@ -62,7 +62,7 @@
       {
         "id": "F8",
         "title": "Watermelon",
-        "image": "",
+        "image": "https://priyank100.github.io/json/grocery/images/fruits/watermelon.jpg",
         "description": "",
         "weight": "1 Kg",
         "price": 25
@@ -71,12 +71,12 @@
   },
   {
     "category": "Vegetables",
-    "logo": "",
+    "logo": "https://priyank100.github.io/json/grocery/images/category/vegetables.png",
     "data": [
       {
         "id": "V1",
         "title": "Potato",
-        "image": "",
+        "image": "https://priyank100.github.io/json/grocery/images/vegetables/potato.jpg",
         "description": "",
         "weight": "1 Kg",
         "price": 34
