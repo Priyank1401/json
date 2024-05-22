@@ -138,5 +138,59 @@
         "price": 125
       }
     ]
+  },
+  {
+     "category": "Dairy",
+    "logo": "",
+    "data": [
+      {
+        "id": "D1",
+        "title": "Butter",
+        "image": "https://priyank100.github.io/json/grocery/images/dairy/butter.png",
+        "description": "",
+        "weight": "",
+        "price": 0
+      },
+      {
+        "id": "D2",
+        "title": "Cheese",
+        "image": "https://priyank100.github.io/json/grocery/images/dairy/cheese.png",
+        "description": "",
+        "weight": "",
+        "price": 0
+      },
+      {
+        "id": "D3",
+        "title": "Eggs",
+        "image": "https://priyank100.github.io/json/grocery/images/dairy/egg.png",
+        "description": "",
+        "weight": "",
+        "price": 0
+      },
+      {
+        "id": "D4",
+        "title": "Buffalo Milk",
+        "image": "https://priyank100.github.io/json/grocery/images/dairy/buffalo_milk.png",
+        "description": "",
+        "weight": "",
+        "price": 0
+      },
+      {
+        "id": "D5",
+        "title": "Cow Milk",
+        "image": "https://priyank100.github.io/json/grocery/images/dairy/cow_milk.png",
+        "description": "",
+        "weight": "",
+        "price": 0
+      },
+      {
+        "id": "D6",
+        "title": "Curd",
+        "image": "https://priyank100.github.io/json/grocery/images/dairy/curd.png",
+        "description": "",
+        "weight": "",
+        "price": 0
+      }
+    ]
   }
 ]
