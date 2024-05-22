@@ -6,7 +6,7 @@
       {
         "id": "F1",
         "title": "Apple",
-        "image": "https://priyank100.github.io/json/grocery/images/fruits/apples.jpg",
+        "image": "https://priyank100.github.io/json/grocery/images/fruits/apples.png",
         "description": "",
         "weight": "1 Kg",
         "price": 79.55
@@ -14,7 +14,7 @@
       {
         "id": "F2",
         "title": "Banana",
-        "image": "https://priyank100.github.io/json/grocery/images/fruits/banana.jpg",
+        "image": "https://priyank100.github.io/json/grocery/images/fruits/banana.png",
         "description": "",
         "weight": "1 Dozen",
         "price": 83.56
@@ -30,7 +30,7 @@
       {
         "id": "F4",
         "title": "Grapes",
-        "image": "https://priyank100.github.io/json/grocery/images/fruits/grapes.jpg",
+        "image": "https://priyank100.github.io/json/grocery/images/fruits/grapes.png",
         "description": "",
         "weight": "1 Kg",
         "price": 90
@@ -46,7 +46,7 @@
       {
         "id": "F6",
         "title": "Orange",
-        "image": "https://priyank100.github.io/json/grocery/images/fruits/orange.png",
+        "image": "https://priyank100.github.io/json/grocery/images/fruits/oranges.png",
         "description": "",
         "weight": "1 Kg",
         "price": 90
@@ -62,7 +62,7 @@
       {
         "id": "F8",
         "title": "Watermelon",
-        "image": "https://priyank100.github.io/json/grocery/images/fruits/watermelon.jpg",
+        "image": "https://priyank100.github.io/json/grocery/images/fruits/watermelon.png",
         "description": "",
         "weight": "1 Kg",
         "price": 25
@@ -76,7 +76,7 @@
       {
         "id": "V1",
         "title": "Potato",
-        "image": "https://priyank100.github.io/json/grocery/images/vegetables/potato.jpg",
+        "image": "https://priyank100.github.io/json/grocery/images/vegetables/potato.png",
         "description": "",
         "weight": "1 Kg",
         "price": 34
