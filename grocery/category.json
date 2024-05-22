@@ -1,0 +1,142 @@
+[
+  {
+    "category": "Fruits",
+    "logo": "",
+    "data": [
+      {
+        "id": "F1",
+        "title": "Apple",
+        "image": "",
+        "description": "",
+        "weight": "1 Kg",
+        "price": 79.55
+      },
+      {
+        "id": "F2",
+        "title": "Banana",
+        "image": "",
+        "description": "",
+        "weight": "1 Dozen",
+        "price": 83.56
+      },
+      {
+        "id": "F3",
+        "title": "Cherry",
+        "image": "",
+        "description": "",
+        "weight": "1 Kg",
+        "price": 300
+      },
+      {
+        "id": "F4",
+        "title": "Grapes",
+        "image": "",
+        "description": "",
+        "weight": "1 Kg",
+        "price": 90
+      },
+      {
+        "id": "F5",
+        "title": "Melon",
+        "image": "",
+        "description": "",
+        "weight": "1 Kg",
+        "price": 46.60
+      },
+      {
+        "id": "F6",
+        "title": "Orange",
+        "image": "",
+        "description": "",
+        "weight": "1 Kg",
+        "price": 90
+      },
+      {
+        "id": "F7",
+        "title": "Papaya",
+        "image": "",
+        "description": "",
+        "weight": "1 Kg",
+        "price": 47
+      },
+      {
+        "id": "F8",
+        "title": "Watermelon",
+        "image": "",
+        "description": "",
+        "weight": "1 Kg",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "category": "Vegetables",
+    "logo": "",
+    "data": [
+      {
+        "id": "V1",
+        "title": "Potato",
+        "image": "",
+        "description": "",
+        "weight": "1 Kg",
+        "price": 34
+      },
+      {
+        "id": "V2",
+        "title": "Tomato",
+        "image": "",
+        "description": "",
+        "weight": "1 Kg",
+        "price": 50
+      },
+      {
+        "id": "V3",
+        "title": "Cabbage",
+        "image": "",
+        "description": "",
+        "weight": "1 Kg",
+        "price": 43.15
+      },
+      {
+        "id": "V4",
+        "title": "Cauliflower",
+        "image": "",
+        "description": "",
+        "weight": "1 Kg",
+        "price": 19.6
+      },
+      {
+        "id": "V5",
+        "title": "Brinjal",
+        "image": "",
+        "description": "",
+        "weight": "1 Kg",
+        "price": 75.34
+      },
+      {
+        "id": "V6",
+        "title": "Lady's Finger",
+        "image": "",
+        "description": "",
+        "weight": "1 Kg",
+        "price": 58.90
+      },
+      {
+        "id": "V7",
+        "title": "Spinach",
+        "image": "",
+        "description": "",
+        "weight": "1 Kg",
+        "price": 100
+      },
+      {
+        "id": "V8",
+        "title": "Pea",
+        "image": "",
+        "description": "",
+        "weight": "1 Kg",
+        "price": 125
+      }
+    ]
+  }
+]
