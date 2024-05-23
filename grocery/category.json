@@ -141,7 +141,7 @@
   },
   {
      "category": "Dairy",
-    "logo": "",
+    "logo": "https://priyank100.github.io/json/grocery/images/category/dairy.png",
     "data": [
       {
         "id": "D1",
@@ -162,7 +162,7 @@
       {
         "id": "D3",
         "title": "Eggs",
-        "image": "https://priyank100.github.io/json/grocery/images/dairy/egg.png",
+        "image": "https://priyank100.github.io/json/grocery/images/dairy/eggs.png",
         "description": "",
         "weight": "",
         "price": 0
