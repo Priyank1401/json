@@ -1,1 +1,16 @@
-
+{
+  "banner":[
+    {
+      "id":1,
+      "image":"https://priyank1401.github.io/json/road_safety/images/banner1.png"
+    },
+    {
+      "id":2,
+      "image":"https://priyank1401.github.io/json/road_safety/images/banner1.png"
+    },
+    {
+      "id":3,
+      "image":"https://priyank1401.github.io/json/road_safety/images/banner1.png"
+    }
+  ]
+}
