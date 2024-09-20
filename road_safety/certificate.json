@@ -1,9 +1,24 @@
 {
   "certificates":[
     {
-      "image":"",
+      "image":"https://priyank1401.github.io/json/road_safety/images/certificate1.png",
       "title":"Certificate Name 1",
       "subtitle":"Achievement"
     },
+    {
+      "image":"https://priyank1401.github.io/json/road_safety/images/certificate2.png",
+      "title":"Certificate Name 2",
+      "subtitle":"Achievement"
+    },
+    {
+      "image":"https://priyank1401.github.io/json/road_safety/images/certificate3.png",
+      "title":"Certificate Name 3",
+      "subtitle":"Achievement"
+    },
+    {
+      "image":"https://priyank1401.github.io/json/road_safety/images/certificate4.png",
+      "title":"Certificate Name 4",
+      "subtitle":"Achievement"
+    }
   ]
 }
