@@ -12,28 +12,5 @@
       "id":"b3",
       "image":"https://priyank1401.github.io/json/road_safety/images/banner1.png"
     }
-  ],
-  "videos":[
-    {
-      "id":"v1",
-      "title":"Road Safety 101",
-      "subtitle":"Part-1",
-      "image":"https://priyank1401.github.io/json/road_safety/images/v1thumbnail.png",
-      "video":""
-    },
-    {
-      "id":"v2",
-      "title":"Road Safety 101",
-      "subtitle":"Part-2",
-      "image":"https://priyank1401.github.io/json/road_safety/images/v2thumbnail.png",
-      "video":""
-    },
-    {
-      "id":"v3",
-      "title":"Road Safety 101",
-      "subtitle":"Part-3",
-      "image":"https://priyank1401.github.io/json/road_safety/images/v3thumbnail.png",
-      "video":""
-    }
   ]
 }
