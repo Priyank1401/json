@@ -1,15 +1,15 @@
 {
   "profile":{
     "name":"Priyank Sharma",
-    "photo":""
+    "photo":"",
     "designation":"Flutter Developer",
     "description":"",
     "contact":"+91-8077735538",
     "email":"er.priyank01@gmail.com",
     "city":"Aligarh",
     "state":"Uttar Pradesh, India",
-    "pincode":"202001"
-    "cv":"",
+    "pincode":"202001",
+    "cv":"https://priyank100.github.io/json/priyank_portfolio/images/priyank_resume.pdf",
     "linkedin":"https://www.linkedin.com/in/priyank-sharma-41b22018b/",
     "whatsapp":"https://api.whatsapp.com/send/?phone=918077735538&text&type=phone_number&app_absent=0"
   }
